@@ -22,5 +22,3 @@ This project is developed as part of our BCA 3rd Semester course requirement.
 
 ## 🚧 Project Status
 In Progress – Qt setup is done, feature development in progress.
-
-> 📌 This is a private repository for now. Will be made public after project completion
